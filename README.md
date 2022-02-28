@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @unitcellstudios
-- 👀 I’m interested in App, Game, and Web Development
-- 🌱 I’m currently learning App Development
-- 💞️ I’m looking to collaborate on Android Development 
-- 📫 How to reach me? Here is my email: unitcellstudios@gmail.com
+Unit Cell Studios
+
+Welcome! Unit Cell Studios offers the following services: Animation, Electronic Arts, Electronic Music, App Development, Game Development, and Web Development.
+
+www.unitcellstudios.com
+unitcellstudios@gmail.com
 
 <!---
 unitcellstudios/unitcellstudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
